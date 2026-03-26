@@ -11,8 +11,8 @@ const unbounded = Unbounded({
 })
 
 export const metadata: Metadata = {
-  title: "nexus-company",
-  description: "Loja de roupas femininas e masculinas.",
+  title: "nexus-ktz",
+  description: "Loja de roupas masculinas e femininas focada no streetwear",
 };
 
 export default function RootLayout({

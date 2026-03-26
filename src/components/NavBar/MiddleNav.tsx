@@ -13,7 +13,7 @@ export default function MiddleNav() {
           href='/'
           className='Unbounded text-4xl font-bold text-black lg:text-5xl'
         >
-          Nexus<span className='text-[var(--second)]'>Company</span>
+          Nexus<span className='text-[var(--second)]'>Ktz</span>
         </Link>
 
         {/* Search Box */}
